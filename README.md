@@ -17,4 +17,5 @@ See `PYTHON_PROJECT_1_BW.pdf` for the complete project documentation.
 
 ## Author
 K. Anburoja
+
 B.Sc. Computer Science
