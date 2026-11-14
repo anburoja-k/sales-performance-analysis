@@ -13,7 +13,7 @@ A sales analytics system built with Python, demonstrating Object-Oriented Progra
 - NumPy
 
 ## Project Report
-See `PYTHON_PROJECT_1_BW.pdf` for the complete project documentation.
+See `K_Anburoja_Project_BW3.pdf` for the complete project documentation.
 
 ## Author
 K. Anburoja
